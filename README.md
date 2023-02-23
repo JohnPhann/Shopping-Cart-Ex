@@ -1,7 +1,6 @@
-shopping cart
+To run Project
 
-npm install
-///////
-npm start
+-npm install
 
+-npm start
 
